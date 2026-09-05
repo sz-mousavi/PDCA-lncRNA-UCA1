@@ -9,7 +9,7 @@ Code accompanying:
 
 ## What this repository contains
 
-Bioinformatics analysis of the UCA1–miR-708-5p / miR-135b-5p axis and EMT in pancreatic cancer.
+Bioinformatics analysis of the GSE119794 dataset from the Gene Expression Omnibus (GEO) to analyze differentially expressed lncRNAs (DE-lncRNAs), miRNAs (DE-miRNAs), and mRNAs (DE-mRNAs) in pancreatic cancer.
 
 ## Data policy
 
